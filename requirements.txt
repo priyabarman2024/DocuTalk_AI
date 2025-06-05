@@ -1,0 +1,12 @@
+langchain
+openai
+faiss-cpu
+sentence-transformers
+PyPDF2
+docx
+streamlit
+streamlit-authenticator==0.2.2
+python-dotenv
+langchain-community
+langchain-openai
+faiss-cpu
